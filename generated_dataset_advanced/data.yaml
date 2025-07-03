@@ -1,0 +1,9 @@
+
+train: /Applications/jisung/ai_shot_cover/generated_dataset_advanced/train/images
+val: /Applications/jisung/ai_shot_cover/generated_dataset_advanced/valid/images
+
+# 클래스 개수
+nc: 4
+
+# 클래스 이름 (순서 중요)
+names: ['good_group', 'vertical_scatter', 'horizontal_scatter', 'random_scatter']

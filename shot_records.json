@@ -1,0 +1,92 @@
+[
+    {
+        "shooter_id": "JisungKim",
+        "session_id": "JisungKim_20250614173617",
+        "stage": 1,
+        "analysis_result": {
+            "title": "조준선 불량 의심",
+            "advice": "2발의 탄착군이 좌우로 분산되었습니다.",
+            "click_adjustment": "좌 5.6, 상 9.4 클리크"
+        },
+        "raw_data": {
+            "detected_new_shots": 2,
+            "total_shots_on_target": 2
+        },
+        "timestamp": "2025-06-14 17:36:18"
+    },
+    {
+        "shooter_id": "JisungKim",
+        "session_id": "JisungKim_20250614173617",
+        "stage": 2,
+        "analysis_result": {
+            "title": "양호한 탄착군",
+            "advice": "3발의 탄착군이 잘 형성되었습니다.",
+            "click_adjustment": "좌 1.3, 상 2.8 클리크"
+        },
+        "raw_data": {
+            "detected_new_shots": 3,
+            "total_shots_on_target": 5
+        },
+        "timestamp": "2025-06-14 17:36:18"
+    },
+    {
+        "shooter_id": "JisungKim",
+        "session_id": "JisungKim_20250614192010",
+        "stage": 1,
+        "analysis_result": {
+            "title": "조준선 불량 의심",
+            "advice": "2발의 탄착군이 좌우로 분산되었습니다.",
+            "click_adjustment": "좌 5.6, 상 9.4 클리크"
+        },
+        "raw_data": {
+            "detected_new_shots": 2,
+            "total_shots_on_target": 2
+        },
+        "timestamp": "2025-06-14 19:20:11"
+    },
+    {
+        "shooter_id": "JisungKim",
+        "session_id": "JisungKim_20250614192010",
+        "stage": 2,
+        "analysis_result": {
+            "title": "양호한 탄착군",
+            "advice": "3발의 탄착군이 잘 형성되었습니다.",
+            "click_adjustment": "좌 1.3, 상 2.8 클리크"
+        },
+        "raw_data": {
+            "detected_new_shots": 3,
+            "total_shots_on_target": 5
+        },
+        "timestamp": "2025-06-14 19:20:11"
+    },
+    {
+        "shooter_id": "testman",
+        "session_id": "testman_20250616211026",
+        "stage": 1,
+        "analysis_result": {
+            "title": "조준선 불량 의심",
+            "advice": "2발의 탄착군이 좌우로 분산되었습니다.",
+            "click_adjustment": "좌 5.6, 상 9.4 클리크"
+        },
+        "raw_data": {
+            "detected_new_shots": 2,
+            "total_shots_on_target": 2
+        },
+        "timestamp": "2025-06-16 21:10:27"
+    },
+    {
+        "shooter_id": "testman",
+        "session_id": "testman_20250616211026",
+        "stage": 2,
+        "analysis_result": {
+            "title": "양호한 탄착군",
+            "advice": "3발의 탄착군이 잘 형성되었습니다.",
+            "click_adjustment": "좌 1.3, 상 2.8 클리크"
+        },
+        "raw_data": {
+            "detected_new_shots": 3,
+            "total_shots_on_target": 5
+        },
+        "timestamp": "2025-06-16 21:10:27"
+    }
+]
