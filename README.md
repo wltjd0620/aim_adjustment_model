@@ -101,7 +101,7 @@ python multi_stage_analyzer.py --model runs/train/shot_detection_exp/weights/bes
 ```
 실행 후, 터미널에는 각 차수별 분석 결과가 출력되고 서버로 데이터가 전송됩니다. 웹 브라우저에서 `http://127.0.0.1:5000`에 접속하면 저장된 기록을 확인할 수 있습니다.
 
-🔮 향후 발전 계획
+### 향후 발전 계획
 웹 기반 UI 개발: 사용자가 웹 페이지를 통해 직접 사진을 업로드하고, 분석 결과를 시각적인 그래프와 함께 볼 수 있는 인터페이스 개발.
 
 실시간 객체 탐지: 웹캠을 이용한 실시간 사격 자세(견착, 호흡) 분석 기능 추가.
@@ -110,5 +110,5 @@ python multi_stage_analyzer.py --model runs/train/shot_detection_exp/weights/bes
 
 모델 성능 고도화: 더 많은 실제 사격 데이터를 수집하고 라벨링하여 모델의 정확도와 강인성 향상.
 
-📄 라이선스
+### 라이선스
 본 프로젝트는 MIT License를 따릅니다.
